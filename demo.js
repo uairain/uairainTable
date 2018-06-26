@@ -1,1 +1,1 @@
-var dd = { text: 'demo' }
+var dd = { text: 'demo', author: 'longchunyu' }
