@@ -1,1 +1,1 @@
-var demo2 = {}
+var demo2 = { a: ""b }
